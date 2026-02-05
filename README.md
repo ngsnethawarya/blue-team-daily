@@ -1,2 +1,7 @@
-# blue-team-daily
-A daily Blue Team learning log focused on defensive security fundamentals and hands-on practice.
+# Blue Team Daily
+
+This repository documents small, daily Blue Team learning notes and experiments.
+Each entry focuses on a single defensive security concept, log analysis idea,
+or lightweight script used in lab environments.
+
+Goal: build consistency, reinforce fundamentals, and create a visible learning trail.
